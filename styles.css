@@ -48,3 +48,6 @@ main h3 {
 }
 
 /* the styles for the footer */
+:root {
+    --global-color-1: #800000;
+}
