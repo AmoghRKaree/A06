@@ -26,7 +26,7 @@ a:focus, a:hover {
 }
 
 .shadow{
-	text-shadow: 2px 2px 2px #800000;
+	text-shadow: 2px 2px 2px var(--global-color-1);
 }
 footer p {
 	text-align: center;
